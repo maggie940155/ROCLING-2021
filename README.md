@@ -3,7 +3,7 @@
 
 ## **Title**
 A Corpus for Dimensional Sentiment Classification on YouTube Streaming Service
-- This paper proposes multi-dimensional sentiment indicators, such as YouTuber preferences, Video preferences, and Excitement levels, to capture comprehensive sentiment on audience comments for videos and YouTubers. To assess the performance of different classifiers, we compare deep learning-based, machine learning-based, and BERT-based classifiers to detect three sentiment indicators in audience comments.
+> This paper proposes multi-dimensional sentiment indicators, such as YouTuber preferences, Video preferences, and Excitement levels, to capture comprehensive sentiment on audience comments for videos and YouTubers. To assess the performance of different classifiers, we compare deep learning-based, machine learning-based, and BERT-based classifiers to detect three sentiment indicators in audience comments.
 
 ## **Author** 
 
