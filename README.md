@@ -6,7 +6,7 @@ This paper proposes multi-dimensional sentiment indicators, such as YouTuber pre
 
 [Paper Submission Version](https://github.com/maggie940155/ROCLING-2021/blob/e79cbe56fcce39384e0225350dcd49131abc89b2/2021.RoclingPublication.pdf)
 
-[Conference Speech](https://github.com/maggie940155/ROCLING-2021/blob/e79cbe56fcce39384e0225350dcd49131abc89b2/paper39_ROCLING2021.pptx)
+[Conference Speech](https://github.com/maggie940155/ROCLING-2021/blob/96e5e9280aa1a8dc3b7e4db72bc5fbf213e48415/paper39_ROCLING2021.pdf)
 
 ## Workflow:
  - [x] Collecting YouTube comments for analysis 
