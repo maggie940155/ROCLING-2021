@@ -11,6 +11,7 @@ Ching-Wen Hsu, Chun-Lin Chou, Hsuan Liu, Jheng-Long Wu
 This paper proposes multi-dimensional sentiment indicators, such as YouTuber preferences, Video preferences, and Excitement levels, to capture comprehensive sentiment on audience comments for videos and YouTubers. To assess the performance of different classifiers, we compare deep learning-based, machine learning-based, and BERT-based classifiers to detect three sentiment indicators in audience comments.
 
 [Paper Submission Version](https://github.com/maggie940155/ROCLING2021/blob/e79cbe56fcce39384e0225350dcd49131abc89b2/2021.RoclingPublication.pdf)
+
 [Conference Speech](https://github.com/maggie940155/ROCLING-2021/blob/96e5e9280aa1a8dc3b7e4db72bc5fbf213e48415/paper39_ROCLING2021.pdf)
 
 ## **Workflow**
